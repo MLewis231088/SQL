@@ -1,6 +1,7 @@
 # SQL
 
-Private Function Entertainment
+
+# Private Function Entertainment
 This repository contains an SQL project focused on managing data related to jockeys and the events they perform at. The data is organized into two tables: "Disc_Jockey" and "Function." The "Disc_Jockey" table serves as the parent table and stores information about 30 jockeys, while the "Function" table acts as the child table and contains details of 70 events where the jockeys performed.
 
 # Disc_Jockey Table
